@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=110&height=180&section=header&text=RERAH&fontAlignY=55" width="100%" alt="RERAH ✨" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=110&height=180&section=header&text=RERAH&fontAlignY=55" width="100%" alt="Rerah" />
 </p>
 
 <p align="center">
